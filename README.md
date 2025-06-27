@@ -23,15 +23,6 @@ Explore how market sentiment affects trader behavior and profitability by:
 
 ---
 
-## Dataset Overview
-
-| File | Description |
-|------|-------------|
-| `historical_data.csv` | Trade-level data including timestamps, PnL, size, leverage |
-| `fear_greed_index.csv` | Daily sentiment classification (Fear, Greed, etc.) |
-
----
-
 ## Key Visualizations
 
 - **Bar Plot**: Average Closed PnL per sentiment phase
@@ -44,10 +35,10 @@ Explore how market sentiment affects trader behavior and profitability by:
 
 ## Sample Insights
 
-- 📈 Traders on average perform **better during Fear and Greed** sentiment.
-- 📉 Trade volume drops significantly during **Neutral** periods.
-- 🧠 Some coins show consistent performance based on sentiment phase.
-- 📊 “Fear” shows **more stable** PnL compared to “Greed” in risk-adjusted terms.
+-  Traders on average perform **better during Fear and Greed** sentiment.
+-  Trade volume drops significantly during **Neutral** periods.
+-  Some coins show consistent performance based on sentiment phase.
+-  “Fear” shows **more stable** PnL compared to “Greed” in risk-adjusted terms.
 
 ---
 
